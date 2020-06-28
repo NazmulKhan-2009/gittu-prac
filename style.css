@@ -6,6 +6,7 @@
 h1{
   color:red;
   border:2px solid blue;
+  text-transform: lowercase;
 }
 img{
   border-radius: 20%;
