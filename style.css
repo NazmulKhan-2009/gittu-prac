@@ -1,0 +1,15 @@
+*{
+  margin:0;
+  padding: 0;
+}
+
+h1{
+  color:red;
+  border:2px solid blue;
+}
+img{
+  border-radius: 20%;
+}
+p{
+  color:gray;
+}
